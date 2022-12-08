@@ -20,6 +20,6 @@ export const InputContainer = styled.div`
         font-family: 'Roboto';
         text-align: right;
         padding: 0px 15px;
-        color: #FFF;
+        color: #F8F8FF;
     }
 `;

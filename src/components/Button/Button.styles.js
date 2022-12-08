@@ -6,10 +6,11 @@ export const ButtonContainer = styled.button`
     font-size: 30px;
     font-weight: 700;
     flex: 1;
-    color: #FFF;
+    color: #F8F8FF;
+    background-color: #F4A460;
 
     &:hover{
-        opacity: 0.3;
+        opacity: 0.7;
     }
 
     .black{
